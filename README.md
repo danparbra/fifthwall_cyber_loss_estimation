@@ -1,2 +1,2 @@
 # fifthwall_cyber_loss_estimation
-Fifthwall MLE Technical task project.
+Fifthwall MLE Technical task project that consists of building functionality for a ML/AI use case in a machine learning pipeline capable of predicting the financial impact of cybersecurity incidents. It utilizes historical breach data to estimate potential losses for improved risk management. It deploys the predictive service via a web API for seamless integration into business processes. For more info check PPT presentation inside `docs/` folder.
