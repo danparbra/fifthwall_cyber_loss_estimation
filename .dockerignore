@@ -1,0 +1,8 @@
+.venv/
+logs
+infrastructure
+docs
+*.egg-info/
+LICENSE
+README.md
+notebooks
